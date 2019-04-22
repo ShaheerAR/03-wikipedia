@@ -1,0 +1,143 @@
+body{
+    font-family: sans-serif
+}
+
+img{
+    width: 140px;
+    margin: 20px
+
+}
+nav{
+    width: 200px;
+    background-color: whitesmoke;
+    height: 2630px;
+    margin: 5px;
+    margin-right: 5px;
+   
+}
+.sidenav{
+    width: 200px;
+    background-color:whitesmoke;
+    height: 1000px;
+   
+}
+
+a{
+    
+    text-decoration-color: whitesmoke;
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+    color: rgb(13, 35, 109)
+        
+}
+h3{
+    margin: 10px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 4px
+    
+}
+hr{
+    color: black;
+    border-color: black;
+    background-color: black;
+    margin: 10px;
+    border: 50%
+}
+
+header{
+    position: absolute;
+    left: 16%;
+    top: 8%;
+    
+
+    
+}
+
+h1{
+    position: absolute;
+    top: 80px;
+    left: 240px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.nfak{
+    position: absolute;
+    left: 220px;
+    top: 135px;
+    width: 1200px
+}
+
+.searchbox{
+    position: absolute;
+    left: 950px;
+    top:15%;
+    width: 300px;
+    height: 25px;
+    
+}
+.searchbutton{
+    position: absolute;
+    width: 50px;
+    margin: 10px;
+    left: 1200px;
+    top: -10px;
+    text-decoration-color: black
+
+}
+
+.maintopic{
+    position: absolute;
+    left: 240px;
+    top: 150px;
+    width: 850px;
+    font-size: 17px;
+
+}
+.bio{
+    position: absolute;
+    left: -3%;
+    top: 355px;
+    width: 100%
+}
+
+.earlylife{
+    position: absolute;
+    left: -30px;
+    top: 10p
+}
+
+.sidebox{
+    position: absolute;
+    right: -45%;
+    text-align: center;
+    top: 20px;
+    background-color: whitesmoke;
+    
+    width: 350px;
+    
+    
+}
+.nusratimage{
+    
+    width: 280px;
+    
+   
+
+
+}
+
+
+footer{
+    position: absolute;
+    background-color: whitesmoke;
+    left: 240px;
+    width: 1240px;
+    height: 200px;
+    top: 365%;
+    color: blue
+    
+    
+}
+
+
